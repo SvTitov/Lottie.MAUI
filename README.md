@@ -1,5 +1,5 @@
 # Lottie.MAUI
 
-Migration of [LottieXamarin](https://github.com/Baseflow/LottieXamarin) to MAUI. 
+Migration of [LottieXamarin](https://github.com/luberda-molinet/FFImageLoading) to MAUI. 
 
 Currently it only supports Android platform.
